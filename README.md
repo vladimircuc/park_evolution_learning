@@ -58,11 +58,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* [Python 3.12.3](https://www.python.org/downloads/) or higher
-* Required Python libraries:
-- numpy
-- pandas
-- matplotlib
+* [Python 3.12.3](https://www.python.org/downloads/) or higher    
+* Required Python libraries:     
+- numpy   
+- pandas   
+- matplotlib   
 
 ## Running The Program
 
